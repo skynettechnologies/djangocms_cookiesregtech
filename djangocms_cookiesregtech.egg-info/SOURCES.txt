@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+cookiesregtech/__init__.py
+cookiesregtech/admin.py
+cookiesregtech/api.py
+cookiesregtech/apps.py
+cookiesregtech/middleware.py
+cookiesregtech/models.py
+cookiesregtech/migrations/0001_initial.py
+cookiesregtech/migrations/__init__.py
+cookiesregtech/static/cookiesregtech/admin.css
+cookiesregtech/templates/cookiesregtech/settings.html
+djangocms_cookiesregtech.egg-info/PKG-INFO
+djangocms_cookiesregtech.egg-info/SOURCES.txt
+djangocms_cookiesregtech.egg-info/dependency_links.txt
+djangocms_cookiesregtech.egg-info/requires.txt
+djangocms_cookiesregtech.egg-info/top_level.txt
